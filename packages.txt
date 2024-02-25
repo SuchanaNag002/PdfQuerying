@@ -6,3 +6,4 @@ langchain
 tiktoken
 langchain-community
 python-dotenv
+pinecone-client

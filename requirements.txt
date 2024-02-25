@@ -3,6 +3,7 @@ PyPDF2
 google-generativeai
 langchain_google_genai
 langchain
+os
 tiktoken
 langchain-community
 python-dotenv
